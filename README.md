@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pawan Maurya</h1>
 <h3 align="center">
-  A passionate MERN Stack Developer and Frontend Developer Instructor at Red & White Education Pvt Ltd. 
+  A passionate MERN Stack Developer and Full Stack Developer Instructor at Red & White Education Pvt Ltd. 
 </h3>
 
 ---
